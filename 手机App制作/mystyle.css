@@ -1,0 +1,201 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;list-style:none}
+.clear{clear:both}
+.first
+{
+    width:485px;
+    height:857px;
+    background:url(images/QQ%E5%9B%BE%E7%89%8720161206173831.jpg) no-repeat center;
+    filter:alpha(opacity=100);
+    opacity:1;
+}
+.bag{position:relative;left:50%;margin-left:-242.5px;width:485px}
+.main{width:485px;height:857px;
+}
+.main .status
+{
+    width:485px;
+    height:33px;
+}
+.main .nav
+{
+    background:#FF5501;
+    height:73px;
+}
+.main .nav a:nth-of-type(1)
+{
+    float:left;
+    width:89px;
+    height:70px;
+    background:url("images/tu1.jpg") no-repeat 0px 4px;
+    margin-left:0px;
+}
+.main input
+{
+    background:url("images/tu1.jpg") no-repeat -90px -13px;
+    width:299px;
+    height:40px;
+    float:left;
+    margin:15px auto;
+    outline-style:none;
+    border:none;
+}
+.main .nav a:nth-of-type(2)
+{
+    float:right;
+    width:89px;
+    height:70px;
+    background:url("images/tu1.jpg") no-repeat -394px 4px;
+}
+.main .banner img{cursor:pointer}
+.main ul:nth-of-type(1)
+{
+    background:#ffffff;
+    height:267px;
+}
+.main ul:nth-of-type(1) li
+{
+    float:left;
+    width:100px;
+    height:120px;
+    margin:10px 10px;
+
+}
+.main ul:nth-of-type(1) li a
+{
+    color:#979797;
+    font-size:16px;
+    margin-left:33px;
+    font-weight:bold;
+}
+.main ul:nth-of-type(1) li a:link{text-decoration:none}
+.main ul:nth-of-type(1) li div img{cursor:pointer}
+.main ul:nth-of-type(1) li div
+{
+    width:100px;
+    height:96px;
+}
+.main .shopshelf li
+{
+    margin:0px 0px;
+    float:left;
+    margin:0px 0px;
+}
+.main .shopshelf li img{cursor: pointer}
+.main .bottom a:nth-of-type(1)
+{
+    float:left;
+    width:97px;
+    height:82px;
+    cursor:pointer;
+    background:url("images/tu14.jpg") no-repeat 0px 0px;
+}
+.main .bottom a:nth-of-type(2)
+{
+    float:left;
+    width:97px;
+    height:82px;
+    cursor:pointer;
+    background:url("images/tu14.jpg") no-repeat -97px 0px;
+}
+.main .bottom a:nth-of-type(3)
+{
+    float:left;
+    width:97px;
+    height:82px;
+    cursor:pointer;
+    background:url("images/tu14.jpg") no-repeat -194px 0px;
+}
+.main .bottom a:nth-of-type(4)
+{
+    float:left;
+    width:97px;
+    height:82px;
+    background:url("images/tu14.jpg") no-repeat -291px 0px;
+    cursor:pointer;
+}
+.main .bottom a:nth-of-type(5)
+{
+    float:left;
+    width:97px;
+    height:82px;
+    background:url("images/tu14.jpg") no-repeat -388px 0px;
+    cursor:pointer;
+}
+.main2
+{
+    width:485px;
+    height:857px;
+}
+.main2 .kind
+{
+    height:66px;
+    width:485px;
+    background:#FFDAC7;
+}
+.main2 .kind .left
+{
+    float:left;
+    width:20px;
+    height:26px;
+    background:url("images/T2.jpg") no-repeat -10px -20px;
+    margin:18px 67px 18px 13px;
+}
+.main2 .kind h3
+{
+    float:left;
+    margin:18px 104px;
+}
+.main2 .kind .right
+{
+    float:right;
+    width:44px;
+    height:17px;
+    background:url("images/T3.jpg") no-repeat -37px -25px;
+    line-height:66px;
+    margin:22.5px 13px 22.5px 43px;
+}
+.main2 .navLeft
+{
+    float:left;
+    height:759px;
+}
+.main2 .navLeft
+{
+    background:#ffffff;
+}
+.main2 .navLeft ul li
+{
+    width:68px;
+    height:64.5px;
+    margin:58px 16px;
+}
+.main2 .navLeft ul li a
+{
+    color:#252525;
+    font-weight:bold;
+}
+.main2 .bannerRight
+{
+    float:right;
+    background:#FDE8DD;
+    width:385px;
+}
+.main2 .bannerRight h3
+{
+    margin:4px 0px 5px 10px;
+    color:#6B6B6B;
+}
+.main2 .bannerRight ul li
+{
+    float:left;
+    margin:4px 10px;
+    width:105px;
+    background:#ffffff;
+}
+.main2 .bannerRight ul li a
+{
+    color:#6B6B6B;
+    margin-left:33px;
+}
